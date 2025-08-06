@@ -9,3 +9,7 @@ MD5: 734d8622d3c5d9f1755008b11e8a0eee
 Name: Transformers Fall of Cybertron.zip
 Size: 6442450944 bytes : 6 GiB
 MD5: a1b2c3d4e5f6789012345678901234ab
+
+Name: WFC multiplayer fix.zip
+Size: 17112094 bytes : 16 MiB
+SHA256: 470b6c5fb43c5b94f60800da6211abc8adfffbf2ac23a9ca96830aa676c1ca5b
